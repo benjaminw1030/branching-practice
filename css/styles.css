@@ -3,7 +3,13 @@
 #lion,
 #tiger,
 #bear,
-#other {
+#other,
+#kiddie,
+#thresher,
+#dragon,
+#rapids,
+#tooTall,
+#tooShort {
   display:none;
 }
 
