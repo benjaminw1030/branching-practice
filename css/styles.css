@@ -1,0 +1,12 @@
+#votingAge,
+#underVotingAge,
+#lion,
+#tiger,
+#bear,
+#other {
+  display:none;
+}
+
+img {
+  max-width: 500px;
+}
